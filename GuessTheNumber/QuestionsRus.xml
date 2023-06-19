@@ -1,0 +1,162 @@
+﻿<Questions>
+    <Question>
+        <Text>Вопрос 1: Какой процент людей предпочитает собакам кошек?</Text>
+        <CorrectPercentage>60</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 2: Какой процент людей любит путешествовать?</Text>
+        <CorrectPercentage>80</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 3: Какой процент людей верит в привидения?</Text>
+        <CorrectPercentage>35</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 4: Какой процент людей страдает от высотного страха?</Text>
+        <CorrectPercentage>50</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 5: Какой процент людей предпочитает чтение к просмотру фильмов?</Text>
+        <CorrectPercentage>40</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 6: Какой процент людей любит острые блюда?</Text>
+        <CorrectPercentage>70</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 7: Какой процент людей испытывает страх перед публичными выступлениями?</Text>
+        <CorrectPercentage>75</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 8: Какой процент людей любит заниматься спортом?</Text>
+        <CorrectPercentage>65</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 9: Какой процент людей испытывает страх перед пауками?</Text>
+        <CorrectPercentage>45</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 10: Какой процент людей предпочитает шоколад мороженому с ванилью?</Text>
+        <CorrectPercentage>55</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 11: Какой процент людей любит ходить на пляж?</Text>
+        <CorrectPercentage>85</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 12: Какой процент людей испытывает страх перед полетами?</Text>
+        <CorrectPercentage>30</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 13: Какой процент людей любит походы?</Text>
+        <CorrectPercentage>75</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 14: Какой процент людей любит есть пиццу?</Text>
+        <CorrectPercentage>90</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 15: Какой процент людей любит играть в видеоигры?</Text>
+        <CorrectPercentage>70</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 16: Какой процент людей верит в пришельцев?</Text>
+        <CorrectPercentage>50</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 17: Какой процент людей испытывает страх перед змеями?</Text>
+        <CorrectPercentage>40</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 18: Какой процент людей любит ходить на концерты?</Text>
+        <CorrectPercentage>80</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 19: Какой процент людей испытывает страх перед темнотой?</Text>
+        <CorrectPercentage>25</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 20: Какой процент людей предпочитает кофе чаю?</Text>
+        <CorrectPercentage>60</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 21: Какой процент людей любит заниматься садоводством?</Text>
+        <CorrectPercentage>55</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 22: Какой процент людей испытывает страх перед клоунами?</Text>
+        <CorrectPercentage>20</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 23: Какой процент людей любит петь?</Text>
+        <CorrectPercentage>75</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 24: Какой процент людей любит ходить по магазинам?</Text>
+        <CorrectPercentage>85</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 25: Какой процент людей испытывает страх перед иглами?</Text>
+        <CorrectPercentage>30</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 26: Какой процент людей предпочитает боевики романтическим фильмам?</Text>
+        <CorrectPercentage>65</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 27: Какой процент людей любит танцевать?</Text>
+        <CorrectPercentage>80</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 28: Какой процент людей испытывает страх перед грозой?</Text>
+        <CorrectPercentage>40</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 29: Какой процент людей любит готовить?</Text>
+        <CorrectPercentage>70</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 30: Какой процент людей верит в гороскопы?</Text>
+        <CorrectPercentage>50</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 31: Какой процент людей испытывает страх перед толпой людей?</Text>
+        <CorrectPercentage>35</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 32: Какой процент людей любит играть на музыкальных инструментах?</Text>
+        <CorrectPercentage>60</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 33: Какой процент людей любит походы на природу?</Text>
+        <CorrectPercentage>75</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 34: Какой процент людей испытывает страх перед стоматологами?</Text>
+        <CorrectPercentage>50</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 35: Какой процент людей предпочитает чтение книг в печатном формате, а не в электронном?</Text>
+        <CorrectPercentage>45</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 36: Какой процент людей любит рыбалку?</Text>
+        <CorrectPercentage>55</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 37: Какой процент людей испытывает страх перед общественным транспортом?</Text>
+        <CorrectPercentage>25</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 38: Какой процент людей любит смотреть спорт?</Text>
+        <CorrectPercentage>90</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 39: Какой процент людей любит живопись или рисование?</Text>
+        <CorrectPercentage>70</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Вопрос 40: Какой процент людей верит в удачу?</Text>
+        <CorrectPercentage>60</CorrectPercentage>
+    </Question>
+</Questions>

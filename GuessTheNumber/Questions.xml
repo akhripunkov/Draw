@@ -1,0 +1,162 @@
+﻿<Questions>
+    <Question>
+        <Text>Question 1: What percentage of people prefer dogs over cats?</Text>
+        <CorrectPercentage>60</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 2: What percentage of people enjoy traveling?</Text>
+        <CorrectPercentage>80</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 3: What percentage of people believe in ghosts?</Text>
+        <CorrectPercentage>35</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 4: What percentage of people have a fear of heights?</Text>
+        <CorrectPercentage>50</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 5: What percentage of people prefer reading over watching movies?</Text>
+        <CorrectPercentage>40</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 6: What percentage of people enjoy spicy food?</Text>
+        <CorrectPercentage>70</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 7: What percentage of people have a fear of public speaking?</Text>
+        <CorrectPercentage>75</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 8: What percentage of people enjoy playing sports?</Text>
+        <CorrectPercentage>65</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 9: What percentage of people have a fear of spiders?</Text>
+        <CorrectPercentage>45</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 10: What percentage of people prefer chocolate over vanilla ice cream?</Text>
+        <CorrectPercentage>55</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 11: What percentage of people like to go to the beach?</Text>
+        <CorrectPercentage>85</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 12: What percentage of people have a fear of flying?</Text>
+        <CorrectPercentage>30</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 13: What percentage of people enjoy hiking?</Text>
+        <CorrectPercentage>75</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 14: What percentage of people like to eat pizza?</Text>
+        <CorrectPercentage>90</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 15: What percentage of people enjoy playing video games?</Text>
+        <CorrectPercentage>70</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 16: What percentage of people believe in aliens?</Text>
+        <CorrectPercentage>50</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 17: What percentage of people have a fear of snakes?</Text>
+        <CorrectPercentage>40</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 18: What percentage of people enjoy going to concerts?</Text>
+        <CorrectPercentage>80</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 19: What percentage of people have a fear of the dark?</Text>
+        <CorrectPercentage>25</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 20: What percentage of people prefer coffee over tea?</Text>
+        <CorrectPercentage>60</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 21: What percentage of people enjoy gardening?</Text>
+        <CorrectPercentage>55</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 22: What percentage of people have a fear of clowns?</Text>
+        <CorrectPercentage>20</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 23: What percentage of people like to sing?</Text>
+        <CorrectPercentage>75</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 24: What percentage of people enjoy shopping?</Text>
+        <CorrectPercentage>85</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 25: What percentage of people have a fear of needles?</Text>
+        <CorrectPercentage>30</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 26: What percentage of people prefer action movies over romantic movies?</Text>
+        <CorrectPercentage>65</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 27: What percentage of people like to dance?</Text>
+        <CorrectPercentage>80</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 28: What percentage of people have a fear of thunderstorms?</Text>
+        <CorrectPercentage>40</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 29: What percentage of people enjoy cooking?</Text>
+        <CorrectPercentage>70</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 30: What percentage of people believe in horoscopes?</Text>
+        <CorrectPercentage>50</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 31: What percentage of people have a fear of crowded places?</Text>
+        <CorrectPercentage>35</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 32: What percentage of people like to play musical instruments?</Text>
+        <CorrectPercentage>60</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 33: What percentage of people enjoy camping?</Text>
+        <CorrectPercentage>75</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 34: What percentage of people have a fear of dentists?</Text>
+        <CorrectPercentage>50</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 35: What percentage of people prefer reading books in print rather than digital format?</Text>
+        <CorrectPercentage>45</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 36: What percentage of people enjoy fishing?</Text>
+        <CorrectPercentage>55</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 37: What percentage of people have a fear of public transportation?</Text>
+        <CorrectPercentage>25</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 38: What percentage of people like to watch sports?</Text>
+        <CorrectPercentage>90</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 39: What percentage of people enjoy painting or drawing?</Text>
+        <CorrectPercentage>70</CorrectPercentage>
+    </Question>
+    <Question>
+        <Text>Question 40: What percentage of people believe in luck?</Text>
+        <CorrectPercentage>60</CorrectPercentage>
+    </Question>
+</Questions>
